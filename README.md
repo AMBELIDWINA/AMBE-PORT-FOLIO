@@ -86,7 +86,7 @@ You can click on this link to [view site](https://ngalamac.github.io/Ngala-Portf
 👤 **AMBE**
 
 - GitHub: [AMBE](https://github.com/AMBELIDWINA/ambelidwina-test-repo.git)
-- LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
+- LinkedIn: [LIDWINA AMBE](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
